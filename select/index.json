@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "みつばちのキス",
+  "base_artist": "せな・りえ from AIKATSU☆STARS!",
+  "createdAt": "2025-12-17T18:51:55.813553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みつばちのキス",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/01_みつばちのキス_せな・りえ_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "みつばちのキス (Off Vocal)",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/02_みつばちのキス_(Off_Vocal)_せな・りえ_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みつばちのキス",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_みつばちのキス_せな・りえ_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
